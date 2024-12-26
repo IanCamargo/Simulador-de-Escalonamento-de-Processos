@@ -4,6 +4,26 @@ Este projeto é um simulador de algoritmos de escalonamento de processos que imp
 
 ---
 
+## 💼 Informações sobre o Trabalho
+
+**Faculdade de Tecnologia de Mogi Mirim**
+
+**Curso:** Análise e Desenvolvimento de Sistemas (Noturno)
+
+**Matérias:**
+
+-   🖥️ Sistemas Operacionais I
+
+**Professores:**
+
+-   👨🏻‍🏫 Sandro Roberto Armelin
+
+**Autores:**
+
+-   **Ian Camargo** - [@IanCamargo](https://github.com/IanCamargo)
+
+---
+  
 ## 🚀 Funcionalidades
 
 - Entrada interativa para configurar processos (tempo de chegada e execução).
