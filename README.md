@@ -49,7 +49,7 @@ python escalonador_processos.py
 
 ---
 
-### 4. Inserir Processos
+### 📥 4. Inserir Processos
 
 - Após iniciar o programa, você será solicitado a informar o número de processos.
 - Para cada processo, insira:
@@ -59,7 +59,7 @@ python escalonador_processos.py
 
 ---
 
-### 5. Resultados Gerados
+### 📊 5. Resultados Gerados
 
 - Round-Robin:
   - Tempos médios:
@@ -75,7 +75,7 @@ python escalonador_processos.py
 
 ---
 
-### 6. Guia de Uso
+### 🖥️ 6. Guia de Uso
 
 - Exemplo de Uso
   - Entrada
@@ -106,7 +106,7 @@ P3 [4-6] -> P2 [6-9] -> P1 [0-5]
 
 ---
 
-### Diagrama de Gantt
+## 🎨 Diagrama de Gantt
 Os diagramas de Gantt exibem cada processo como uma barra horizontal no tempo em que foi executado, com cores distintas para cada processo. Os diagramas são exibidos automaticamente após a execução dos algoritmos e incluem:
 
 - Processos: Identificados no eixo Y.
@@ -114,7 +114,7 @@ Os diagramas de Gantt exibem cada processo como uma barra horizontal no tempo em
 
 ---
 
-## Contribuindo
+## 🤝 Contribuindo
 Contribuições são bem-vindas!
 Se você deseja contribuir:
 
@@ -127,4 +127,13 @@ git checkout -b minha-contribuicao
 
 - Envie suas alterações por um pull request.
 
+--- 
 
+## 📝 Licença
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+
+--- 
+
+## 📧 Contato
+Email: ian.camargo@fatec.sp.gov.br
+LinkedIn: Ian Camargo - https://www.linkedin.com/in/ian-camargo-aa19a2214/
