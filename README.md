@@ -46,3 +46,12 @@ cd seu-repositorio
 Copiar código
 python escalonador_processos.py
   ```
+
+### 4. Inserir Processos
+
+- Após iniciar o programa, você será solicitado a informar o número de processos.
+- Para cada processo, insira:
+  - Tempo de chegada: Momento em que o processo está disponível.
+  - Tempo de execução: Duração necessária para executar o processo.
+- Informe o valor do quantum para o algoritmo Round-Robin.
+
