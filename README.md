@@ -28,15 +28,21 @@ Este projeto é um simulador de algoritmos de escalonamento de processos que imp
 
 - Certifique-se de ter **Python 3.x** instalado.
 - Instale a biblioteca `matplotlib`:
-  ```bash
+  ```sh
   pip install matplotlib
+  ```
+
+---
 
 ### 2. Clonar o Repositório
-  ```bash
+  ```sh
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+  ```
+---
 
 ### 3. Executar o Simulador
   ```bash
 Copiar código
 python escalonador_processos.py
+  ```
