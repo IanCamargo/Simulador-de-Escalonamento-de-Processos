@@ -135,5 +135,5 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais info
 --- 
 
 ## 📧 Contato
-**Email:**  ian.camargo@fatec.sp.gov.br \
-**LinkedIn:**  Ian Camargo - https://www.linkedin.com/in/ian-camargo-aa19a2214/
+**Email:** ian.camargo@fatec.sp.gov.br \
+**LinkedIn:** https://www.linkedin.com/in/ian-camargo-aa19a2214/
