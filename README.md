@@ -104,4 +104,27 @@ P1 [0-2] -> P2 [2-4] -> P3 [4-6] -> P1 [6-8] -> P2 [8-9] -> P1 [9-10]
 P3 [4-6] -> P2 [6-9] -> P1 [0-5]
 ```
 
+---
+
+### Diagrama de Gantt
+Os diagramas de Gantt exibem cada processo como uma barra horizontal no tempo em que foi executado, com cores distintas para cada processo. Os diagramas são exibidos automaticamente após a execução dos algoritmos e incluem:
+
+- Processos: Identificados no eixo Y.
+- Intervalos de execução: Representados no eixo X.
+
+---
+
+## Contribuindo
+Contribuições são bem-vindas!
+Se você deseja contribuir:
+
+- Faça um fork do repositório.
+- Crie uma nova branch:
+
+```sh
+git checkout -b minha-contribuicao
+```
+
+- Envie suas alterações por um pull request.
+
 
